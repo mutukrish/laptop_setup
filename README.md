@@ -14,7 +14,7 @@ This project is forked & derived from the [thoughtbot/laptop](https://github.com
 Download the script:
 
 ```sh
-curl --remote-name https://raw.githubusercontent.com/mutukrish/laptop_m1/main/mac
+curl --remote-name https://raw.githubusercontent.com/mutukrish/laptop_setup/main/mac
 ```
 
 Review the script (avoid running scripts you haven’t read!):
